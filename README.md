@@ -108,9 +108,6 @@ Author: [meloalright](https://github.com/meloalright)
    
 Documented in [Releases](https://github.com/meloalright/vue-ins-progress-bar/releases)   
 
-## 给我加个蛋
-
-[![LATOPAY](https://latopay.com/w/eg-bg-2062.png)](https://latopay.com/@meloalright)
 
 ## License   
    
